@@ -1,4 +1,4 @@
-#Early-Prediction-Of-Brain-Stroke-Using-Machine-Learning-Algorithms
+Early-Prediction-Of-Brain-Stroke-Using-Machine-Learning-Algorithms
 
 
 ABOUT:
@@ -16,30 +16,44 @@ REQUIREMENTS:
 HARDWARE SPECIFICATIONS:
 
 Processor: I3/Intel
+
 Processor RAM: 4GB (min)
+
 Hard Disk: 128 GB
+
 Key Board: Standard Windows Keyboard
+
 Mouse: Two or Three Button Mouse
+
 Monitor: Any
 
 SOFTWARE SPECIFICATIONS:
 
 Operating System: Windows 7+
+
 IDE:PyCharmServer side Scripts:HTML,CSS,JS.
+
 Libraries Used: Pandas, Numpy,Sci-kit Learning.
+
 Frameworks: Flask.
 
 System Architecture:
+
 ![ARCHITECTURE DIAGRAM](https://github.com/mon1973/Early-Prediction-Of-Brain-Stroke-Using-Machine-Learning-Algorithms/assets/99952167/141e6d47-744d-4f12-a07f-e28cfe13319a)
 
 Output:
+
 ![OUTPUT 1](https://github.com/mon1973/Early-Prediction-Of-Brain-Stroke-Using-Machine-Learning-Algorithms/assets/99952167/88864193-0b42-484f-a0bf-a423900e76a4)
 
 ![OUTPUT 2](https://github.com/mon1973/Early-Prediction-Of-Brain-Stroke-Using-Machine-Learning-Algorithms/assets/99952167/9d8a7175-5b80-45e5-b7b1-f43ccf65de97)
 
 ![OUTPUT 3](https://github.com/mon1973/Early-Prediction-Of-Brain-Stroke-Using-Machine-Learning-Algorithms/assets/99952167/f700c39f-3219-4d19-8a25-625d8532d758)
 
-Detection Accuracy: 98%  Note: These metrics can be customized based on your actual performance evaluations.
+Detection Accuracy: 98%  
+
+Note: 
+
+These metrics can be customized based on your actual performance evaluations.
 
 Results and Impact:
 
@@ -50,6 +64,7 @@ It is worth noting that some features were found to be less significant compared
 Articles published:
 
 Deep learning-enhanced internet of medical things to analyze brain ct scans of hemorrhagic stroke patients: a new approach :Y Xu, G Holanda, LFF Souza, H Silva, A Gomes, I Silva, M Ferreira, C Jia, T Han…
+
 Towards effective classification of brain hemorrhagic and ischemic stroke using CNN .A  Gautam, B Raman - Biomedical Signal Processing and Control, 2021
 
 
